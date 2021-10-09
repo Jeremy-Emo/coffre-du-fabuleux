@@ -3,6 +3,8 @@
 ## Build Setup
 
 ```bash
+# get .env file
+$ cp .env.example .env
 # install dependencies
 $ yarn install
 
